@@ -13,7 +13,7 @@ I'm a backend engineer
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-000000.svg?style=Flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=Flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=Flat-square&logo=docker&logoColor=white"/></a>&nbsp
 </p>
 
 <!--

@@ -24,10 +24,12 @@ I'm a backend engineer
 </p>
 -->
 
+<!--
 <h4>📊 GitHub Stats 📊 </h4>
 <p> 
 	<img src="https://github-readme-stats.vercel.app/api?username=hyesu-shin&theme=vue&show_icons=true"/></a>
 </p>
+-->
 
 
 <!--

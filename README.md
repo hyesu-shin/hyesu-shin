@@ -7,10 +7,12 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <br />
   <img src="https://img.shields.io/badge/mysql-000000.svg?style=Flat-square&logo=mysql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=Flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=Flat-square&logo=docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=Flat-square&logo=nginx&logoColor=white"/></a>&nbsp
-  <img stc="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=Flat-square&logo=githubactions&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=Flat-square&logo=githubactions&logoColor=white"/></a>&nbsp
+  <br />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=Flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=Flat-square&logo=git&logoColor=white"/></a>&nbsp
 </p>
 
 <!--

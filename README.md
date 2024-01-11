@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<p>
-I'm a backend engineer
-</p>
-
 <!-- https://github.com/Ileriayo/markdown-badges -->
-<br />
 <h4>🛠 Tech Stack 🛠</h4>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp

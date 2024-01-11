@@ -2,7 +2,7 @@
 <h4>🛠 Tech Stack 🛠</h4>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=Flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=Flat-square&logo=typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=Flat-square&logo=express&logoColor=%2361DAFB"/></a>&nbsp
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-000000.svg?style=Flat-square&logo=mysql&logoColor=white"/></a>&nbsp

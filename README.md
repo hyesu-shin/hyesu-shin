@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=Flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=Flat-square&logo=github&logoColor=white" alt="GitHub" />&nbsp;
     <img src="https://img.shields.io/badge/Firestore-FFCA28?style=Flat-square&logo=firebase&logoColor=black" alt="Firestore" />&nbsp;
-    <br />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=Flat-square&logo=jira&logoColor=white" alt="Jira" />&nbsp;
     <img src="https://img.shields.io/badge/PHP-777BB4?style=Flat-square&logo=php&logoColor=white" alt="PHP" />&nbsp;
 </p>
